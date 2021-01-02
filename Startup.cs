@@ -11,6 +11,7 @@ using Microsoft.Extensions.Hosting;
 
 namespace githubpipeline
 {
+    // Change for the github pipeline trigger
     public class Startup
     {
         public Startup(IConfiguration configuration)
